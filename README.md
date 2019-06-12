@@ -11,9 +11,3 @@ changes to the main .py file.
 
 Whenever someone notices a more efficient or elegant way of completing
 a challenge, feel free to change the function or add a comment.
-
-I believe rarehunter has already completed the first eleven challenges.
-Perhaps he can take the lead and post eleven functions.
-
-
-
